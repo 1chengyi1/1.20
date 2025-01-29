@@ -55,4 +55,3 @@ reportlab
 plotly
 networkx
 scikit-learn
-gensim
